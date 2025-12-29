@@ -1,4 +1,6 @@
-👋 Hi, I’m @elenipapadopulos!
+👋 Hi, I'm @elenipapadopulos!
 
-I have a BSc in Mathematics @ UniSalento and I'm currently studying Data Science @ UniPD.  
-Passionate about Machine and Deep Learning. Aspiring AI engineer.
+🎓 PhD Student in Artificial Intelligence @ Politecnico di Torino
+📊 MSc in Data Science | BSc in Mathematics @ UniSalento  
+🔬 Passionate about NLP, AI reasoning & logic
+
